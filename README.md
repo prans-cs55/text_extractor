@@ -38,6 +38,7 @@ These ensure Tesseract OCR runs correctly on HuggingFace Spaces.
 📸 Demo
 
 Just upload an image → click Submit → done!
+![Uploading image.png…]()
 
 🙌 Acknowledgements
 
